@@ -1,16 +1,8 @@
-# book_reader
+# PDF book reader on Flutter
 
-A new Flutter project.
+## Installation instructions for Windows
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Download pdf_book_reader_windows.zip
+2. Unzip the archive to a convenient location
+3. Run the book_reader.exe file
+4. (Optional) Create a shortcut of the book_reader.exe file and place it on the desktop
