@@ -1,6 +1,9 @@
 # PDF book reader on Flutter
 ## Supported OS:
 - Windows
+- MacOS
+- Android
+- IOS
 
 ## Installation guide
 Windows:
